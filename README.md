@@ -4,12 +4,6 @@ BookMark Bites is a beautifully designed, feature-rich recipe discovery applicat
 
 The app allows users to browse recipes from TheMealDB API, view detailed instructions and ingredients, and save their favorites for robust offline access.
 
-### 🎥 Live Demo / Showcase
-
-*`(This is the most important visual! Replace the placeholder below with a high-quality GIF or screen recording of your app in action. A great recording shows the fluid navigation and animations.)`*
-
-`[YOUR_SCREEN_RECORDING_HERE]`
-
 ---
 
 ## ✨ Features
@@ -60,8 +54,8 @@ To run this project locally, follow these steps:
 ### 2. Clone the Repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/YOUR_REPOSITORY_NAME.git
-cd YOUR_REPOSITORY_NAME
+git clone https://github.com/Mark1william11/bookmark-bites.git
+cd bookmark-bites
 ```
 
 ### 3. Set Up Firebase

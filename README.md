@@ -20,13 +20,13 @@ BookMark Bites is built to be a complete and professional user experience, focus
 | ------------------------------ | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------- |
 | **Clean, Modern UI**           | A custom-designed theme with elegant typography (`Playfair Display` & `Montserrat`) and a professional color palette creates a unique and memorable visual identity.          | <img width="1080" height="2400" alt="Screenshot_1753898644" src="https://github.com/user-attachments/assets/c7bee09f-465d-4b70-97a5-555bfbcba63c" />                                                                      |                                                        |
 | **Offline-First Database**     | Save your favorite recipes and view them anytime, even without an internet connection. Powered by a robust local **Drift (SQLite)** database.                               | <img width="1080" height="2400" alt="Screenshot_1753898819" src="https://github.com/user-attachments/assets/a7d0f5ec-9000-4ed7-ae7a-46e6b3259af5" />
-                                                                |
+       |                                                         |
 | **Connectivity Awareness**     | The UI gracefully handles offline states. Instead of errors, it guides the user to accessible content, demonstrating a thoughtful and resilient user experience.             | <img width="1080" height="2400" alt="Screenshot_1753898837" src="https://github.com/user-attachments/assets/aaa84210-9074-44b7-9892-47c8f3afd4de" />
-                                                              |
+       |                                                       |
 | **Full Authentication Flow**   | Secure user sign-up and login powered by **Firebase Authentication**. Critical actions like signing out are protected by a confirmation dialog to prevent accidents.         | <img width="1080" height="2400" alt="Screenshot_1753898880" src="https://github.com/user-attachments/assets/e97a5859-7bca-418c-8c99-0f616169e0bf" />
-                                                              |
+       |                                                       |
 | **Interactive Discovery**      | Browse recipes by category, view detailed instructions, and explore a dynamic "Trending" section on the home screen. All data is fetched live from TheMealDB API.        | <img width="1080" height="2400" alt="Screenshot_1753898914" src="https://github.com/user-attachments/assets/76518eb8-6931-437f-a24e-5fa3856aa783" />
-                                                                    |
+       |                                                             |
 | **Professional Navigation**    | A `ShellRoute` powered by **GoRouter** provides a persistent, animated bottom navigation bar (`GNav`) for a standard and intuitive mobile experience.                          | <img width="1080" height="2400" alt="Screenshot_1753898941" src="https://github.com/user-attachments/assets/af111a9f-a7d6-463f-9518-74401b43fe97" />
                                                                  |
 
